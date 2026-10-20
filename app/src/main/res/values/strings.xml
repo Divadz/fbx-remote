@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Télec Freebox</string>
+    <string name="settings">Réglages</string>
+    <string name="settings_code">Code télécommande réseau</string>
+    <string name="settings_code_hint">8 chiffres affichés par le Player</string>
+    <string name="settings_code_help">Sur la TV : Réglages › Système › Informations Freebox Player et Server › Player › Télécommande réseau.</string>
+    <string name="settings_player">Boîtier</string>
+    <string name="settings_haptics">Vibration à l\'appui</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annuler</string>
+    <string name="status_idle">Prêt</string>
+    <string name="status_no_code">Code non renseigné</string>
+    <string name="status_sending">Envoi…</string>
+    <string name="status_ok">Envoyé</string>
+    <string name="status_bad_code">Code refusé par le Player</string>
+    <string name="status_bad_key">Touche inconnue du Player</string>
+    <string name="status_http_error">Erreur HTTP %1$d</string>
+    <string name="status_unreachable">Player injoignable (même Wi-Fi ?)</string>
+</resources>

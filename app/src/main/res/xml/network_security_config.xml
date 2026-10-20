@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Le Player Freebox n'expose son API télécommande qu'en HTTP clair sur le réseau local. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">hd1.freebox.fr</domain>
+        <domain includeSubdomains="false">hd2.freebox.fr</domain>
+    </domain-config>
+</network-security-config>

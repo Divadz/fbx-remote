@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Exemple d'icône personnalisée (losange). Pour en créer une : clic droit sur res/drawable
+     › New › Vector Asset › Local file (SVG), ou copier un fichier XML comme celui-ci. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,2L22,12L12,22L2,12Z" />
+</vector>
